@@ -6,13 +6,13 @@ This is a sleek and simple **Task Manager** web application built using **HTML5*
 
 ## 🚀 Features
 
-- 🔥 **Add Tasks Quickly** using the input box or by pressing the Enter key.
-- 🔢 **Auto Serial Numbers** for all tasks, updated dynamically.
-- 🗑️ **Delete Single or Multiple Tasks** with selection checkboxes.
-- ✏️ **Edit Tasks** using a responsive Bootstrap modal.
-- 💾 **LocalStorage Integration** — All tasks are saved in your browser, so they persist on refresh.
-- 🌙 **Dark Mode UI** for a modern and clean look.
-- 📱 **Responsive Design** — Works great on mobile, tablet, and desktop.
+-  **Add Tasks Quickly** using the input box or by pressing the Enter key.
+-  **Auto Serial Numbers** for all tasks, updated dynamically.
+-  **Delete Single or Multiple Tasks** with selection checkboxes.
+-  **Edit Tasks** using a responsive Bootstrap modal.
+-  **LocalStorage Integration** — All tasks are saved in your browser, so they persist on refresh.
+-  **Dark Mode UI** for a modern and clean look.
+-  **Responsive Design** — Works great on mobile, tablet, and desktop.
 
 ---
 
